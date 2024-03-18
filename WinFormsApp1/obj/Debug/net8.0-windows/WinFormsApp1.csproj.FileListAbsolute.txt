@@ -1,0 +1,238 @@
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ecemm\Desktop\ProLab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ecemm\Desktop\23.02.24\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ecemm\Desktop\2.03.24-18.28\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ecemm\Desktop\5.03.24-23.44(koordinat degerleri)\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\sis2\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden13.03.24-15.29\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (9)\yeniden14.03.24-14.14\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\msi-nb\Desktop\Yeni klasör (13)\yeniden17.03.24-12.23\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\prolab2.1\18.03.24-00.48\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

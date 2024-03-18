@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\arilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\arilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi-nb\\desktop\\yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\kuslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\kuslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\agac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\agac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\duvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\duvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\engeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\engeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\hazineler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\hazineler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\kaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\kaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\hareketli engeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\hareketli engeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\lokasyon_listesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\lokasyon_listesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1549D92C-834F-4650-8C86-A064DA1272A7}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173410347:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dag.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Dag.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Dag.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Dag.cs",
+              "RelativeToolTip": "WinFormsApp1\\Dag.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAjwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAWwL0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kaya.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Kaya.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Kaya.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Kaya.cs",
+              "RelativeToolTip": "WinFormsApp1\\Kaya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Karakter.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Karakter.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Karakter.cs",
+              "RelativeToolTip": "WinFormsApp1\\Karakter.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwHsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:48.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Duvar.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Duvar.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Duvar.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Duvar.cs",
+              "RelativeToolTip": "WinFormsApp1\\Duvar.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arilar.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Arilar.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Arilar.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Arilar.cs",
+              "RelativeToolTip": "WinFormsApp1\\Arilar.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAWwHIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kuslar.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Kuslar.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Kuslar.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Kuslar.cs",
+              "RelativeToolTip": "WinFormsApp1\\Kuslar.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAWwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:48.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hazineler.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Hazineler.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Hazineler.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Hazineler.cs",
+              "RelativeToolTip": "WinFormsApp1\\Hazineler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Agac.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Agac.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Agac.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Agac.cs",
+              "RelativeToolTip": "WinFormsApp1\\Agac.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwF8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Engeller.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Engeller.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Engeller.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Engeller.cs",
+              "RelativeToolTip": "WinFormsApp1\\Engeller.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAIA2wEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hareketli Engeller.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Hareketli Engeller.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Hareketli Engeller.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Hareketli Engeller.cs",
+              "RelativeToolTip": "WinFormsApp1\\Hareketli Engeller.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:48.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lokasyon_Listesi.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Lokasyon_Listesi.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Lokasyon_Listesi.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Lokasyon_Listesi.cs",
+              "RelativeToolTip": "WinFormsApp1\\Lokasyon_Listesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form2.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:47.133Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lokasyon.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Lokasyon.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Lokasyon.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Lokasyon.cs",
+              "RelativeToolTip": "WinFormsApp1\\Lokasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (13)\\yeniden17.03.24-12.23\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Yeni klas\u00F6r (9)\\yeniden14.03.24-14.14\\WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\Yeni klas\u00F6r (9)\\yeniden14.03.24-14.14\\WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:46:48.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
